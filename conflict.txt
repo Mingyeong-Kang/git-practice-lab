@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version C - changed again on main
+=======
+Version B - from feature
+>>>>>>> feature/conflict-demo
